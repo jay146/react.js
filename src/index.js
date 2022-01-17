@@ -4,7 +4,7 @@ const name = "krishna";
 const randomno = Math.random() * 10;
 const img1 = "https://picsum.photos/200";
 const img2 = "https://picsum.photos/200/300";
-const customStyle = { color: "red" };
+const customStyle = { color: "green" };
 ReactDOM.render(
   <div>
     <h1>hello {name}</h1>
